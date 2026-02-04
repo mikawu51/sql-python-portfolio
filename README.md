@@ -10,7 +10,7 @@ focusing on funnel conversion, cohort retention, and LTV.
 - `01_sql/` : Data cleaning, funnel, cohort analysis (SQL)
 - `02_python/` : Pandas analysis & visualization
 - `03_data/sample/` : Public sample data
-- `05_outputs/` : Exported tables and figures
+- `04_outputs/` : Exported tables and figures
 
 ## 🔧 Skills Demonstrated
 - SQL (CTE, Window Functions, Funnel, Cohort)
